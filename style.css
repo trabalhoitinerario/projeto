@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #00334d;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: #748da4;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #23407b;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #00334d;
+  color: white;
+}
+
+.footer {
+  background-color: #748da4;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+lactea {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #00334d;
+  color: #ffffff;;
+
+.texto-colorido {
+  color: #ffffff
+
+
+  .lua {
+     background-color: #00334d;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px;
+
+    .texto-colorido {
+      color: #ffffff
